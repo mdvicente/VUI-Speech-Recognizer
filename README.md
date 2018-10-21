@@ -1,5 +1,5 @@
 # VUI-Speech-Recognizer
-Speech Recognition with several Neural Networks models
+Speech Recognition with several Neural Networks models.
 Model 0: RNN
 Model 1: RNN + TimeDistributed Dense
 Model 2: CNN + RNN + TimeDistributed Dense
